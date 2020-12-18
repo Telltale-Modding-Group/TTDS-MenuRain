@@ -1,6 +1,6 @@
 # Menu Rain for Telltale Definitive Series
 
-### [Download the Mod here](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)
+### [Download the Mod here](https://github.com/changemymindpls/TTDS-MenuRain/releases)
 
 ### Install this mod using the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher).
 
@@ -18,7 +18,7 @@ This simple mod adds rain to the menu scene for the The Walking Dead Telltale De
 
 ## Download
 
-**[Download the mod](https://github.com/changemymindpls/TTDS-GraphicBlackDisabler/releases)**
+**[Download the mod](https://github.com/changemymindpls/TTDS-MenuRain/releases)**
 
 **This mod is compatible with the [Telltale Mod Launcher](https://github.com/Telltale-Modding-Group/TelltaleModLauncher) and can be installed using the tool.**
 
