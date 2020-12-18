@@ -10,7 +10,7 @@
 
 ## About
 
-This simple mod adds rain to the menu scene for the The Walking Dead Telltale Definitive Edition, complete with full rain effects and sound! This mod also is compatible with [Ambience](https://github.com/droyti/Ambience) and [Load Any Level](https://github.com/droyti/LoadAnyLevel)
+This simple mod adds rain to the menu scene for The Walking Dead Telltale Definitive Edition, complete with full rain effects and sound! This mod also is compatible with [Ambience](https://github.com/droyti/Ambience) and [Load Any Level](https://github.com/droyti/LoadAnyLevel)
 
 **[Original Reddit Post](https://www.reddit.com/r/TheWalkingDeadGame/comments/kfs8uh/mod_menu_rain_ambience_for_the_definitive_series/)**
 
