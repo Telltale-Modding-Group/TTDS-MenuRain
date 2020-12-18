@@ -14,6 +14,8 @@ This simple mod adds rain to the menu scene for the The Walking Dead Telltale De
 
 **Built using the [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor)**
 
+**This mod is compatible with [Ambience](https://github.com/droyti/Ambience) and [Load Any Level](https://github.com/droyti/LoadAnyLevel)**
+
 ![Screenshot 1](screenshots/main-preview.png)
 
 ## Download
