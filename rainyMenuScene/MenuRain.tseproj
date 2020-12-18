@@ -1,0 +1,12 @@
+{
+  "formatVersion": "1",
+  "tool": {
+    "game": "Rainy Menu Scene"
+  },
+  "mod": {
+    "name": "Rainy Menu Scene",
+    "version": "1.0",
+    "author": "changemymindpls1",
+    "priority": 1100
+  }
+}
