@@ -7,7 +7,7 @@
 ## DISCLAIMER
 
 **This only works for 'The Walking Dead Telltale Definitive Edition'.**
-**Not Compatible with [Relighting Mod](https://github.com/changemymindpls/TTDS-Relighting)
+**Not Compatible with [Relighting Mod](https://github.com/changemymindpls/TTDS-Relighting)**
 
 ## About
 
